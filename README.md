@@ -2,4 +2,6 @@
 
 my name is yan
 
- - I'm studing a alura
+ - I'm studing a alura now
+
+### nice to meet you
